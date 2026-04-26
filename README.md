@@ -1,9 +1,9 @@
 HARDWARE - 
-Xilinx Zynq-based Blackboard
-  SoC Architecture - ARM Cortex-A9 Processing System with FPGA
-  Peripherals - GPIO, UART, SPI, I²C, ADC, PWM, timers, and interrupt controllers
-  Memory - 512 MB DDR3 for memory-mapped I/O
-  Data I/O - FIFO buffering
+// Xilinx Zynq-based Blackboard
+  // SoC Architecture - ARM Cortex-A9 Processing System with FPGA
+  // Peripherals - GPIO, UART, SPI, I²C, ADC, PWM, timers, and interrupt controllers
+  // Memory - 512 MB DDR3 for memory-mapped I/O
+  // Data I/O - FIFO buffering
 
 // C CODE
 
