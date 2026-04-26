@@ -1,11 +1,6 @@
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-// EE 3420: Lab 4 – Traffic Simulator 
 // Author: Jeremy Wolfson
-// Contributions: Chazon Mingarine, CHATGPT (assumed through Mingarine, otherwise null this contribution), Carlos De Castro, Jonathan Martinez, Mark W. Welker
-// Last edit: 7/11/25
-//
+// Contributions: Chazon Mingarine, (assumed through Mingarine, otherwise null this contribution), Carlos De Castro, Jonathan Martinez, Mark W. Welker
 // Note: All references to "PMOD" are always assumed to be PMOD C.
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 #include <stdint.h>
 #define LED_Data	    *((uint32_t *)0x41210000) // The LED's we will be using is LED 12, one of 3 RGB light systems on the Blackboard.
