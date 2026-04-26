@@ -1,4 +1,5 @@
-// M Welker Attempt to convert lab 1 from assembly to C.
+// Author: Jeremy Wolfson
+// Contributions: Mark Welker
 
 #include <stdint.h>
 
